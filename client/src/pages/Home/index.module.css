@@ -1,0 +1,40 @@
+.div{
+    background-image: url('https://preview.colorlib.com/theme/onepro/img/slider/slide_2.jpg.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.div1{
+    height: 100vh;
+   background: rgba(0,0,0,0.5);
+   z-index: 99;
+   background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+   
+}
+.div1 h4{
+    padding-top: 350px;
+    padding-left: 300px;
+}
+.div1 h1{
+    padding-left: 300px;
+    padding-top: 30px;
+
+}
+.div1 p{
+    padding-left: 300px;
+    padding-top: 30px;
+    font-size: 22px;
+}
+.div1 button{
+    border: none;
+    display: block;
+    margin-left: 300px;
+    margin-top: 30px;
+    color: white;
+}
+.btn:hover{
+    background-color: black;
+}
